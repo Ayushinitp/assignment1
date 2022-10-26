@@ -20,7 +20,7 @@ int main(){
 /*
 #include<stdio.h>
 int main(){
-    printf("\"MySirG\"");
+    printf("\"My\"");
     return 0;
 }
 */
